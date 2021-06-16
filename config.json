@@ -1,0 +1,21 @@
+{
+   "params": {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/janvifashion",
+      "prod_uri": "mysql://root:@localhost/janvifashion",
+      "fb_url": "https://facebook.com/janvifashion",
+      "tw_url": "https://twitter.com/janvifashion",
+      "ig_url": "https://instagram.com/janvifashionr",
+      "blog_name": "Jahnvi Fashion",
+      "tag_line": "It's a Unique Fashion",
+      "gmail-user": "janhvi.fashion1@gmail.com",
+      "gmail-password": "fashion2909",
+      "about_text": "Hi my name is janhvi and I create programming tutorials and I am a good girl",
+      "no_of_posts": 5,
+      "login_image":"login.svg",
+      "admin_user": "janu",
+      "admin_password": "fashion",
+      "upload_location": "C:\\Users\\91972\\PycharmProjects\\pythonProject\\janhvi.fashion\\static"
+   }
+}
+
